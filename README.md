@@ -1,8 +1,8 @@
 ##Paddy An online Notespad
 Paddy helps you To all cide, imp. api keys in one central place you only need add it to Paddy once
 ## Features 
-One Click to copy
-One click delete
+One Click to copy\n
+One click delete\n
 Sigle page web app
 ### Made With React & Firebase
 Used react with materialUI on frontend
